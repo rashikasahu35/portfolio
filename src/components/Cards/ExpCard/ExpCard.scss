@@ -1,0 +1,28 @@
+.exp-card{
+    width: 900px;
+    height: fit-content;
+
+    @media (max-width: 1000px){
+        width: 700px;
+    }
+    @media (max-width: 768px){
+        width: 500px;
+        padding: 10px;
+        gap: 8px;
+    }
+    @media (max-width: 550px){
+        width: 300px;
+        padding: 10px;
+        gap: 4px;
+    }
+    @media (max-width: 350px){
+        width: 240px;
+        padding: 8px;
+        gap: 4px;
+    }
+    @media (max-width: 280px){
+        width: 180px;
+        padding: 5px;
+        gap: 4px;
+    }
+}
