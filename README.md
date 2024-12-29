@@ -1,4 +1,4 @@
-## Live App : <a href="https://rashika-sahu-portfolio.vercel.app" target="_blank">Link</a>
+## Live App : <a href="https://rashikasahu.vercel.app" target="_blank">Link</a>
 
 ## About
 <img width="850" alt="image" src="https://github.com/rashikasahu35/portfolio/assets/93260606/3265ee5e-8cd5-449c-9359-b0c7244397eb">
