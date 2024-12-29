@@ -220,8 +220,7 @@ export const projects = [
       "Kibana",
     ],
     category: "devops",
-    github: "https://github.com/rashikasahu35/VidChill",
-    demo: "https://drive.google.com/file/d/1KL6MkIedSmx92JYWbF6cW6Ul8cEHJbtU/view",
+    github: "https://github.com/rashikasahu35/Microservice-Architecture-on-Azure-with-ELK-logging",
     blog: "https://medium.com/@rashikasahu35/deploying-a-microservice-architecture-on-azure-with-secure-elk-logging-4ca2e7b55a42",
   },
   {
@@ -233,7 +232,7 @@ export const projects = [
       "This repository contains scripts and configurations for deploying Azure Self-hosted agents on Azure Kubernetes Service (AKS) capable of supporting multiple frameworks including .NET, Java, and React applications. These agents can be used to execute your workloads and CI/CD pipelines.",
     ],
     image:
-      "https://private-user-images.githubusercontent.com/93260606/371850469-c4eaf3de-f17e-468f-aa04-1f97310bf270.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzUzMDM3MzUsIm5iZiI6MTczNTMwMzQzNSwicGF0aCI6Ii85MzI2MDYwNi8zNzE4NTA0NjktYzRlYWYzZGUtZjE3ZS00NjhmLWFhMDQtMWY5NzMxMGJmMjcwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI3VDEyNDM1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJkZTMwMmVmODIyMGNjODZiMWZjYmJlMGNkYTlhNWU5NGY2YmJiMTNkODAwNmY2YTQ2NzRlZjI1ODA5ZWYxZDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.A6OZtNu6Wjc7HuGLglHADPfWRMIbPSj8MRWDkRTzg9g",
+      "https://private-user-images.githubusercontent.com/93260606/371850469-c4eaf3de-f17e-468f-aa04-1f97310bf270.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU0ODU1NjksIm5iZiI6MTczNTQ4NTI2OSwicGF0aCI6Ii85MzI2MDYwNi8zNzE4NTA0NjktYzRlYWYzZGUtZjE3ZS00NjhmLWFhMDQtMWY5NzMxMGJmMjcwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI5VDE1MTQyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0NTRmNzk2MDEzYWE2ZTI0ZGY2Mzc0M2E3ZTBmNmFkMjY3NmZiYTBkNTg4MmM2NTE2YTgxZTNiOWMyNTU0MjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.O_mo4mJ740cCwJmqcSjC25C_drTrdQKAlFF0jLoY0Ek",
     skills: [
       "Microsoft Azure",
       "Kubernetes",
